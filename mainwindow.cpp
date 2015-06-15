@@ -1,7 +1,7 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 
-
+//rui
 using namespace cv;
 bool connected = false;
 bool hsvSegmentation=false;
